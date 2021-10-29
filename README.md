@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gaurav-Rajput01
+- 👋 Hi, I’m @Gaurav Rajput
 - 👀 I’m interested in doing works which is based on electronics and embedded
 - 🌱 I’m currently learning advance c and embedded
 - 💞️ I’m looking to collaborate on projects which is based on embedded and in an organization also
